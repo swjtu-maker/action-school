@@ -1,4 +1,4 @@
-<h2>软件安装：<br> C4M安装包在如下网址中可下载： http://mostfun.cn/software，下载后进行安装；</h2><br>
+<h2>软件安装：<br> C4M安装包在如下网址中可下载： http://mostfun.cn/software <br>下载后进行安装；</h2><br>
 <h3>切片流程</h3><br>
 
 ![](https://github.com/swjtu-maker/action-school/blob/master/Specification%20for%20C4M/1.png)<br>
