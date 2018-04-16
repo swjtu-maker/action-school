@@ -1,6 +1,8 @@
 <h2>软件安装： C4M安装包在如下网址中可下载： http://mostfun.cn/software，下载后进行安装；</h2><br>
 <h3>切片流程</h3><br>
-![操作界面](https://github.com/swjtu-maker/action-school/blob/master/Specification%20for%20C4M/1.png)<br>
+
+![](https://github.com/swjtu-maker/action-school/blob/master/Specification%20for%20C4M/1.png)<br>
+
 <h2>1 载入文件：点击打开模型文件，或将模型文件拖动到C4M窗口中并对模型进行预览。</h2><br>
 <h2>2 切片:点击后进行切片操作，将模型转换为mostfun3D 打印机可执行的文件。</h2><br>
 <h2>3 保存：将转码成功的文件保存为机器可识别的gcode格式。</h2><br>
