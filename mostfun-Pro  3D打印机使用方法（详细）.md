@@ -1,0 +1,1 @@
+![](https://github.com/swjtu-maker/action-school/blob/master/Specification%20for%20Mostfun%20Pro%20(a%20detailed%20version)/0001.jpg)
